@@ -18,20 +18,20 @@ Además del control de los choferes para ayudar a la administración, cuenta con
 
 | Requerimiento    | Detalle/Listado de casos incluidos                                                                     |
 | :--------------- | ------------------------------------------------------------------------------------------------------ |
-| ABMC simple      | Producto <br>Zona <br>Usuario <br> Persona <br> Camion                                                 |
-| ABMC dependiente | Domicilio                                                        |
+| ABMC simple      | Producto <br>Zona  <br> Persona <br> Camion                                                 |
+| ABMC dependiente | Domicilio <br>Usuario                                                       |
 | CU NO-ABMC       | Venta <br> Carga/Descarga                                                                              |
 | Listado simple   | Listado de Clientes (Por zona, deudores, etc). <br> Listado de camiones (por ventas, zona, dia, etc.). |
-| Listado complejo | Listado de ventas (filtado por montos, zona, producto, etc. )                                          |
+| Listado complejo |                                           |
 
 ##### Aprobación Directa                                                                                                                                                                                      |
 | Requerimiento                   | Detalle/Listado de casos incluidos                                                                                                                                                      |
 | :------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ABMC                            |  Precio<br> Localidad<br> Provincia<br> Domicilio<br> LineaPedido<br> Venta<br> Mensaje<br> Temporal<br> Pago<br> Gastos <br>                                                           |
-| CU "Complejo"                   | Registro nuevo cliente/domicilio <br> Asignar clientes a camion <br> Asignar los precios a los productos por zona (Ent: Precio) <br>  Mandar a los deudores la deuda (API: Wspp)        |
-| Listado complejo                | Listado de ventas. <br>                                                                                                                                                                 |
+| CU "Complejo"                   | Registro nuevo cliente/domicilio <br> Asignar clientes a camion <br> Asignar los precios a los productos por zona (Ent: Precio)      |
+| Listado complejo                | Listado de ventas (filtado por montos, zona, producto, etc. )                                                                                                                                                                 |
 | Nivel de acceso                 | Cliente <br> Admin <br> Empleado <br> No registrado                                                                                                                                     |
-| requerimiento extra obligatorio | N                                                                                                                                                                                       |
+| requerimiento extra obligatorio | <br>  Mandar a los deudores la deuda (API: Wspp)                                                                                                                                                                                          |
 
 ###### Requerimientos extra - AD
 
