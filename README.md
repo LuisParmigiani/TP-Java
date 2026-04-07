@@ -6,8 +6,8 @@ Software para venta y distribución de bebidas con seguimiento de envases vacío
 
 Además del control de los choferes para ayudar a la administración, cuenta con un registro de gastos para los vehículos de la empresa sumado a un dashboard repleto de información de las ventas y las deudas
 ## Enlace al Frontend y Backend
-![Backend](https://github.com/LuisParmigiani/Java-TP2026-Back)
-![Frontend](https://github.com/LuisParmigiani/Java-TP2026-Front)
+- [Backend](https://github.com/LuisParmigiani/Java-TP2026-Back)
+- [Frontend](https://github.com/LuisParmigiani/Java-TP2026-Front)
 
 
 ## DER
