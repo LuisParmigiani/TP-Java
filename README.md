@@ -5,6 +5,10 @@
 Software para venta y distribución de bebidas con seguimiento de envases vacíos para los retornables. Garantiza la honestidad de los choferes controlando lo que se lleva y lo que se trae, contrastándolo con las ventas que hizo. Cuenta con una plataforma para los choferes, ayudándolos a recordar todos los puntos en donde tienen que vender y registrando la venta. Además, cuenta con una plataforma para los clientes donde pueden ver su deuda y el detalle de la misma, así como enlaces para cancelarla automáticamente.
 
 Además del control de los choferes para ayudar a la administración, cuenta con un registro de gastos para los vehículos de la empresa sumado a un dashboard repleto de información de las ventas y las deudas
+## Enlace al Frontend y Backend
+![Backend](https://github.com/LuisParmigiani/Java-TP2026-Back)
+![Frontend](https://github.com/LuisParmigiani/Java-TP2026-Front)
+
 
 ## DER
 
