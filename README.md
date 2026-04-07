@@ -24,7 +24,7 @@ Además del control de los choferes para ayudar a la administración, cuenta con
 | Listado simple   | Listado de Clientes (Por zona, deudores, etc). <br> Listado de camiones (por ventas, zona, dia, etc.). |
 | Listado complejo |                                           |
 
-##### Aprobación Directa                                                                                                                                                                                      |
+##### Aprobación Directa                                                                                                                                                                                      
 | Requerimiento                   | Detalle/Listado de casos incluidos                                                                                                                                                      |
 | :------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ABMC                            |  Precio<br> Localidad<br> Provincia<br> Domicilio<br> LineaPedido<br> Venta<br> Mensaje<br> Temporal<br> Pago<br> Gastos <br>                                                           |
