@@ -12,7 +12,7 @@ Además del control de los choferes para ayudar a la administración, cuenta con
 
 ## DER
 
-![DER](DER-JAVA.jpg)
+![DER](ders_2026-original.png)
 
 ##### Regularidad
 
