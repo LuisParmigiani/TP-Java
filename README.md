@@ -41,5 +41,5 @@ Además del control de los choferes para ayudar a la administración, cuenta con
 | :---------------------------------------------------------------------------- | :--------------------------------- |
 | Fotos de los productos y usuarios en almacenadas en la nube (API: Cloudinary) | -                                  |
 | Custom exceptions (con Lombok)                                                | -                                  |
-| [Seguridad con JWT Token]                                                     | -                                  |
-| [Documentación endpoints del backend (API: OpenAPI-Swagger)]                  | -                                  |
+| Seguridad con JWT Token                                                    | -                                  |
+| Documentación endpoints del backend (API: OpenAPI-Swagger)                  | -                                  |
