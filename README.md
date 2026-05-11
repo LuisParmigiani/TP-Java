@@ -8,7 +8,7 @@ Además del control de los choferes para ayudar a la administración, cuenta con
 
 ## DER
 
-![DER](DER-JAVA.jpg)
+![DER](DER-JAVA.png)
 
 ##### Regularidad
 
@@ -20,14 +20,15 @@ Además del control de los choferes para ayudar a la administración, cuenta con
 | Listado simple   | Listado de Clientes (Por zona, deudores, etc). <br> Listado de camiones (por ventas, zona, dia, etc.). |
 | Listado complejo | Listado de ventas (filtado por montos, zona, producto, etc. )                                          |
 
-##### Aprobación Directa                                                                                                                                                                                      |
-| Requerimiento                   | Detalle/Listado de casos incluidos                                                                                                                                                      |
-| :------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ABMC                            |  Precio<br> Localidad<br> Provincia<br> Domicilio<br> LineaPedido<br> Venta<br> Mensaje<br> Temporal<br> Pago<br> Gastos        |
-| CU "Complejo"                   | Registro nuevo cliente/domicilio <br> //Asignar clientes a camion// <br> //Asignar los precios a los productos por zona// <br>  Mandar a los deudores la deuda |
-| Listado complejo                | Listado de ventas. <br>                                                                                                                                                                 |
-| Nivel de acceso                 | Cliente <br> Admin <br> Empleado <br> No registrado                                                                                                                                     |
-| requerimiento extra obligatorio | N                                                                                                                                                                                       |
+##### Aprobación Directa |
+
+| Requerimiento                   | Detalle/Listado de casos incluidos                                                                                                                            |
+| :------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ABMC                            | Precio<br> Localidad<br> Provincia<br> Domicilio<br> LineaPedido<br> Venta<br> Mensaje<br> Temporal<br> Pago<br> Gastos                                       |
+| CU "Complejo"                   | Registro nuevo cliente/domicilio <br> //Asignar clientes a camion// <br> //Asignar los precios a los productos por zona// <br> Mandar a los deudores la deuda |
+| Listado complejo                | Listado de ventas. <br>                                                                                                                                       |
+| Nivel de acceso                 | Cliente <br> Admin <br> Empleado <br> No registrado                                                                                                           |
+| requerimiento extra obligatorio | N                                                                                                                                                             |
 
 ###### Requerimientos extra - AD
 
