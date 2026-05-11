@@ -27,13 +27,13 @@ Además del control de los choferes para ayudar a la administración, cuenta con
 
 ##### Aprobación Directa
 
-| Requerimiento                   | Detalle/Listado de casos incluidos                                                                  |
-| :------------------------------ | :-------------------------------------------------------------------------------------------------- |
-| ABMC                            | Precio<br> Localidad<br> Provincia<br> Domicilio<br> LineaPedido<br> Venta<br> Pago<br> Gastos <br> |
-| CU "Complejo"                   | Registro nuevo cliente/domicilio <br> Asignar clientes a camión <br>                                |
-| Listado complejo                | Listado de ventas (filtado por montos, zona, producto, etc.)                                        |
-| Nivel de acceso                 | Cliente <br> Admin <br> Empleado <br> No registrado                                                 |
-| Requerimiento extra obligatorio | Servicio de notificaciones vía mail (API: Spring Boot Starter Mai) <br>                             |
+| Requerimiento                   | Detalle/Listado de casos incluidos                                      |
+| :------------------------------ | :---------------------------------------------------------------------- |
+| ABMC                            | Gastos<br>LineaPedido<br> Pago<br> Dia                                  |
+| CU "Complejo"                   | Registro nuevo cliente/domicilio <br> Asignar clientes a camión <br>    |
+| Listado complejo                | Listado de ventas (filtado por montos, zona, producto, etc.)            |
+| Nivel de acceso                 | Cliente <br> Admin <br> Empleado <br> No registrado                     |
+| Requerimiento extra obligatorio | Servicio de notificaciones vía mail (API: Spring Boot Starter Mai) <br> |
 
 ###### Requerimientos extra - AD
 
