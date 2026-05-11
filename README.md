@@ -13,11 +13,7 @@ Además del control de los choferes para ayudar a la administración, cuenta con
 
 ## DER
 
-<<<<<<< HEAD
 ![DER](DER-JAVA.png)
-=======
-![DER](ders_2026-original.png)
->>>>>>> 78b63aa1a8484825612d65240122bbf78a2a5578
 
 ##### Regularidad
 
@@ -27,29 +23,17 @@ Además del control de los choferes para ayudar a la administración, cuenta con
 | ABMC dependiente | Domicilio <br>Usuario                                                                                  |
 | CU NO-ABMC       | Venta <br> Carga/Descarga                                                                              |
 | Listado simple   | Listado de Clientes (Por zona, deudores, etc). <br> Listado de camiones (por ventas, zona, dia, etc.). |
-| Listado complejo |                                                                                                        |
+| Listado complejo | -                                                                                                      |
 
-<<<<<<< HEAD
-##### Aprobación Directa |
-
-| Requerimiento                   | Detalle/Listado de casos incluidos                                                                                                                            |
-| :------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| ABMC                            | Precio<br> Localidad<br> Provincia<br> Domicilio<br> LineaPedido<br> Venta<br> Mensaje<br> Temporal<br> Pago<br> Gastos                                       |
-| CU "Complejo"                   | Registro nuevo cliente/domicilio <br> //Asignar clientes a camion// <br> //Asignar los precios a los productos por zona// <br> Mandar a los deudores la deuda |
-| Listado complejo                | Listado de ventas. <br>                                                                                                                                       |
-| Nivel de acceso                 | Cliente <br> Admin <br> Empleado <br> No registrado                                                                                                           |
-| requerimiento extra obligatorio | N                                                                                                                                                             |
-=======
 ##### Aprobación Directa
 
-| Requerimiento                   | Detalle/Listado de casos incluidos                                                                                              |
-| :------------------------------ | :------------------------------------------------------------------------------------------------------------------------------ |
-| ABMC                            | Precio<br> Localidad<br> Provincia<br> Domicilio<br> LineaPedido<br> Venta<br> Mensaje<br> Temporal<br> Pago<br> Gastos <br>    |
-| CU "Complejo"                   | Registro nuevo cliente/domicilio <br> Asignar clientes a camion <br> Asignar los precios a los productos por zona (Ent: Precio) |
-| Listado complejo                | Listado de ventas (filtado por montos, zona, producto, etc. )                                                                   |
-| Nivel de acceso                 | Cliente <br> Admin <br> Empleado <br> No registrado                                                                             |
-| Requerimiento extra obligatorio | Servicio de notificaciones vía mail (API: Spring Boot Starter Mai) <br>                                                         |
->>>>>>> 78b63aa1a8484825612d65240122bbf78a2a5578
+| Requerimiento                   | Detalle/Listado de casos incluidos                                                                  |
+| :------------------------------ | :-------------------------------------------------------------------------------------------------- |
+| ABMC                            | Precio<br> Localidad<br> Provincia<br> Domicilio<br> LineaPedido<br> Venta<br> Pago<br> Gastos <br> |
+| CU "Complejo"                   | Registro nuevo cliente/domicilio <br> Asignar clientes a camión <br>                                |
+| Listado complejo                | Listado de ventas (filtado por montos, zona, producto, etc.)                                        |
+| Nivel de acceso                 | Cliente <br> Admin <br> Empleado <br> No registrado                                                 |
+| Requerimiento extra obligatorio | Servicio de notificaciones vía mail (API: Spring Boot Starter Mai) <br>                             |
 
 ###### Requerimientos extra - AD
 
@@ -57,5 +41,5 @@ Además del control de los choferes para ayudar a la administración, cuenta con
 | :---------------------------------------------------------------------------- | :--------------------------------- |
 | Fotos de los productos y usuarios en almacenadas en la nube (API: Cloudinary) | -                                  |
 | Custom exceptions (con Lombok)                                                | -                                  |
-| Seguridad con JWT Token                                                    | -                                  |
-| Documentación endpoints del backend (API: OpenAPI-Swagger)                  | -                                  |
+| Seguridad con JWT Token                                                       | -                                  |
+| Documentación endpoints del backend (API: OpenAPI-Swagger)                    | -                                  |
